@@ -49,9 +49,9 @@ link the live site https://sonikavasanthk.github.io/
 <div id="Home" class="container-fluid">
  
     <section id="s1">
-      <h3 align="right"><font color="white">FRONT-END DEVELOPER</h3>
-      <h1><b>KRUTHIKA</b></h1>
-      <h1><b>DANTAPALLY</b></h1></font>
+      <h3 align="right"><font color="white">JUNIOR JAVA DEVELOPER & TESTER</h3>
+      <h1><b>SONIKA</b></h1>
+      <h1><b>VASANTH</b></h1></font>
     </section>
  
 </div> 
