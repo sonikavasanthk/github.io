@@ -1,6 +1,3 @@
-link the live site https://sonikavasanthk.github.io/
-## Welcome to GitHub Pages
-
 
 <html>
 <head>
@@ -11,10 +8,10 @@ link the live site https://sonikavasanthk.github.io/
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   <script type="text/javascript" src="js/skillsset.js"></script>
-  <link rel="stylesheet" type="text/css" href="css/kruthika.css">//
+  <link rel="stylesheet" type="text/css" href="css/sonika.css">//
   </head>
 
-<!--<body data-spy="scroll" data-target=".navbar" data-offset="50">-->
+<body data-spy="scroll" data-target=".navbar" data-offset="50">
 
 <nav class="navbar navbar-inverse navbar-fixed-top">
   <div class="container-fluid">
@@ -42,12 +39,12 @@ link the live site https://sonikavasanthk.github.io/
     </div>
   </div>
 </nav> 
-----
+
 <div id="background">
 <div id="Home" class="container-fluid">
  
     <section id="s1">
-      align="left"><font color="black">QA TESTER
+      <h3align="left"><font color="black">QA TESTER </h3>
       <h1><b>SONIKA</b></h1>
       <h1><b>VASANTH</b></h1></font>
     </section>
