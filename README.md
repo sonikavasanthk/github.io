@@ -1,7 +1,16 @@
 link the live site https://sonikavasanthk.github.io/
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/sonikavasanthk/github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<div id="background">
+<div id="Home" class="container-fluid">
+ 
+    <section id="s1">
+      <h3 align="right"><font color="white">FRONT-END DEVELOPER</h3>
+      <h1><b>KRUTHIKA</b></h1>
+      <h1><b>DANTAPALLY</b></h1></font>
+    </section>
+ 
+</div> 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
