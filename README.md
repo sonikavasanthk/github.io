@@ -41,18 +41,17 @@
 
 <div id="background">
  <div id="Home" class="container-fluid">
- <body>
+ 
    <section id="s1">
-     <div style="background-color:lightblue">
-      <h2align="right">
+     <!--<div style="background-color:lightblue">-->
+      <h3align="right">
       <font color="black">
-        <h3><b>QA TESTER </h3>
+        <h3><b>QA TESTER</h3>
         <h1><b>SONIKA VASANTH</b></h1>
         <!--<h1><b>VASANTH</b></h1></font>-->
-       </div>
+       <!--</div-->
     </section>
-</body>
-
+        
 <div id="About" class="container-fluid">
 <section id="sec2">
   <!--<img src="images/about.png" height="80">-->
@@ -63,15 +62,12 @@
 </div>
 
 <div id="Experience" class="container-fluid">
-
   <font color="black"><h1 id="ex5">Work Experience</h1></font>
   &nbsp
   &nbsp<br>
-  
-
+ 
   <table class="bgcw">
-
-    <tr>
+   <tr>
       <!--<td class="bgcw"><img id="ex1" src="images/mul.png"></td>-->
       <td class="bgcw" id="ex6"><p><h4><b>Mar, 2018 - Present </b></h4> <br/> Worked as a Junior Software Developer. Designed and Developed a web based application to manage and displays the live production data which calculates the number of commodities packed in an hour for each time slot. I’ve followed Agile Methodology for software development and QA testing.</p></td>
     </tr>
@@ -83,31 +79,24 @@
        <!--<td class="bgcw"><img id="ex2" src="images/pro.png"></td>-->
        <td class="bgcw"id="ex6"><p><h4><b>Jan, 2014 - July, 2015</b></h4> <br>Worked at Schenck Process India as QA Analyst and developed an online application which is used to search, enter customer details, and to check the billing details. This was order fulfilment system for selling coal feeders and other that billing application which was a client server application built using .net and Oracle database.</p></td>
     </tr>
-
   </table>
 </div>
 
 <div id="Education" class="container-fluid">
   <font color="black"><h1><center>Education</center></h1></font>
   &nbsp<br>
- 
-  
- 
   <table class="bgcw">
     <tr>
       <!--<td class="bgcw"><img src="images/cci.png"></td>-->
       <td class="bgcw"id="ed2"><p><h4><b>Aug, 2015 - December, 2017</b></h4>My interest to fathom the depths of Web Technologies made me to pursue a graduate degree in Computer Science. My course work included project management, Databases and web Development. <br> </p></td>
-  
-  
     </tr>
     <tr>
       <!--<td class="bgcw" id="ed1"><img src="images/jntu.jpg"></td>-->
       <td class="bgcw" id="ed2"><p><h4><b>August, 2010 - June, 2014</b></h4>The 4 years of course work for bachelor’s degree gave me the opportunity to learn and explore the fundamentals of computer science. My undergraduate degree had a rigorous curriculum, which included Computer Programming and Data Structures, Database Management Systems, Object Oriented Programming, Web Technologies etc. <br> </p></td>
     </tr>
-   
   </table>
 </div>
-----------------
+
 <div id="Skills" class="container-fluid">
   <font color="black"><h1><center>What I can do. </center></h1>
   &nbsp<br>
@@ -236,9 +225,9 @@
         <td>&nbsp
           <img src="images/location.png" height="30" alt="location"></td><td><h4><b>San Francisco, CA</font></b></h4>
          
-        </td>
-      </tr>
-      <tr>
+       </td>
+     </tr>
+     <tr>
         <td>
          
         </td>
@@ -248,12 +237,10 @@
      
           <img src="images/linkedin.png" height="36"  alt="View Sonika V's profile on LinkedIn">
        
-          </a>
-          <a href="mailto:sonikavasanth1992@gmail.com"><img src="images/mail.png" height="32" alt="Email Id"></a>
-        </td>
-      </tr>
-   </table>
-
+    </a>
+     <a href="mailto:sonikavasanth1992@gmail.com"><img src="images/mail.png" height="32" alt="Email Id"></a>
+     </td>
+    </tr> 
   </div>
 </div>
 
