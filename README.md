@@ -45,9 +45,10 @@
    <section id="s1">
      <div style="background-color:lightgreen">
       <h2align="left">
-        <font color="black"><QA TESTER </h2>
+      <font color="black"><QA TESTER </h2>
       <h1><b>SONIKA</b></h1>
       <h1><b>VASANTH</b></h1></font>
+       </div>
     </section>
    </div>
  </div>
