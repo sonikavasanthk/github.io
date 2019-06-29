@@ -43,14 +43,19 @@
 <div id="background">
  <div id="Home" class="container-fluid">
    <section id="s1">
-      <h3align="left"><font color="black">QA TESTER </h3>
+      <h2align="left"><font color="black">QA TESTER </h2>
       <h1><b>SONIKA</b></h1>
       <h1><b>VASANTH</b></h1></font>
     </section>
    </div>
  </div>
 </body>
-</html>
-    
-   
+
+<body>
+    <div style="background-color:lightgreen">
+  <h4>This is a heading in a hello element</h4>
+  <p>This is some text in a div element.</p>
+</div>
+  </body>
+</html>   
 
