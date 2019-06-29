@@ -106,68 +106,59 @@
     <tr>
       <td>
         <div id="resumeProficiencies">
-       
-       <div id="resumeProficienciesTop" class="resumeProficienciesTop1">HTML5</div><!--END resumeProficienciesTop-->
-       <div id="resumeProficienciesBottom">
-        <div class="progress">
+          <div id="resumeProficienciesTop" class="resumeProficienciesTop1">HTML5</div><!--END resumeProficienciesTop-->
+          <div id="resumeProficienciesBottom">
+          <div class="progress">
           <div class="html5 progress-bar progress-bar-info" role="progressbar" style="width: 0%"><font color="black"> 80%</font>
-          </div>
         </div>
+       </div>
       </div>
-
       <div id="resumeProficienciesTop">CSS3</div><!--END resumeProficienciesTop-->
-
-     <div id="resumeProficienciesBottom">
-      <div class="progress">
-        <div class="css3 progress-bar progress-bar-info" role="progressbar" style="width: 0%"><font color="black">75%</font>
+        <div id="resumeProficienciesBottom">
+          <div class="progress">
+           <div class="css3 progress-bar progress-bar-info" role="progressbar" style="width: 0%"><font color="black">75%</font>
         </div>
       </div>
      </div>
-
-     <div id="resumeProficienciesTop" class="resumeProficienciesTop1">JavaScript</div><!--END resumeProficienciesTop-->
-       <div id="resumeProficienciesBottom">
-        <div class="progress">
-          <div class="javascript progress-bar progress-bar-info" role="progressbar" style="width: 0%"><font color="black"> 70%</font>
+        <div id="resumeProficienciesTop" class="resumeProficienciesTop1">JavaScript</div><!--END resumeProficienciesTop-->
+          <div id="resumeProficienciesBottom">
+            <div class="progress">
+            <div class="javascript progress-bar progress-bar-info" role="progressbar" style="width: 0%"><font color="black"> 70%</font>
           </div>
         </div>
       </div>
-
-      <div id="resumeProficienciesTop" class="resumeProficienciesTop1">JQuery</div><!--END resumeProficienciesTop-->
-       <div id="resumeProficienciesBottom">
-        <div class="progress">
-          <div class="jquery progress-bar progress-bar-info" role="progressbar" style="width: 0%"><font color="black"> 60%</font>
+        <div id="resumeProficienciesTop" class="resumeProficienciesTop1">JQuery</div><!--END resumeProficienciesTop-->
+          <div id="resumeProficienciesBottom">
+             <div class="progress">
+             <div class="jquery progress-bar progress-bar-info" role="progressbar" style="width: 0%"><font color="black"> 60%</font>
           </div>
         </div>
       </div>
-
-      <div id="resumeProficienciesTop" class="resumeProficienciesTop1">BootStrap</div><!--END resumeProficienciesTop-->
-       <div id="resumeProficienciesBottom">
-        <div class="progress">
-          <div class="bootstrap progress-bar progress-bar-info" role="progressbar" style="width: 0%"><font color="black"> 75%</font>
+        <div id="resumeProficienciesTop" class="resumeProficienciesTop1">BootStrap</div><!--END resumeProficienciesTop-->
+          <div id="resumeProficienciesBottom">
+            <div class="progress">
+            <div class="bootstrap progress-bar progress-bar-info" role="progressbar" style="width: 0%"><font color="black"> 75%</font>
           </div>
         </div>
       </div>
-
       <div id="resumeProficienciesTop" class="resumeProficienciesTop1">AngularJS</div><!--END resumeProficienciesTop-->
-       <div id="resumeProficienciesBottom">
-        <div class="progress">
-          <div class="angularjs progress-bar progress-bar-info" role="progressbar" style="width: 0%"><font color="black"> 50%</font>
+          <div id="resumeProficienciesBottom">
+            <div class="progress">
+            <div class="angularjs progress-bar progress-bar-info" role="progressbar" style="width: 0%"><font color="black"> 50%</font>
           </div>
         </div>
       </div>
-
       <div id="resumeProficienciesTop" class="resumeProficienciesTop1">SQL</div><!--END resumeProficienciesTop-->
-       <div id="resumeProficienciesBottom">
-        <div class="progress">
+        <div id="resumeProficienciesBottom">
+          <div class="progress">
           <div class="sql progress-bar progress-bar-info" role="progressbar" style="width: 0%"><font color="black"> 80%</font>
-          </div>
+         </div>
         </div>
       </div>
       </td>
       </table >
 
-
-    <div id="sk1">
+<div id="sk1">
         <h4><b>Other skills:</b></h4>
         <table>
         <tr>
@@ -176,7 +167,7 @@
         <li id="sk3">Databases</li>
         <li id="sk3"> Project Management</li>
         <li id="sk3">Microsoft Office</li>
-         <li id="sk3">Eclipse</li>
+        <li id="sk3">Eclipse</li>
         <li id="sk3">Visual Studio</li>
         <li id="sk3">Web Services</li>
         <li id="sk3">MVC</li>
@@ -184,9 +175,7 @@
         </ul></h4>
         </td>
         <td><ul><h4>
-       
-       
-        <li id="sk3">Apache Tomcat</li>
+     <li id="sk3">Apache Tomcat</li>
         <li id="sk3">XML</li>
         <li id="sk3"> AJAX</li>
         <li id="sk3"> JSON</li>
@@ -200,52 +189,46 @@
       </div>
     </div></ul></font>
 
-----------------
 <div id="Certifications" class="container-fluid">
   <font color="black"><h1><center>Certifications</center></h1>
   &nbsp
   &nbsp
   &nbsp
-<center>
-    
-<a><h4><b><font color="black">ISTQB Certified</font></h4></a>
-    
-</center>
+    <center>
+    <a><h4><b><font color="black">ISTQB Certified</font></h4></a>
+    </center>
   </font>
 </div>
 
 <div id="Contact" class="container-fluid">
   <font color="black"><h1><center>I'd be happy to hear back from you!!!!</center></h1>
-  &nbsp<br>
-  &nbsp<br>
-
-  <div id="con1">
+    &nbsp<br>
+    &nbsp<br>
+<div id="con1">
     <table>
       <tr>
         <td>&nbsp
           <img src="images/location.png" height="30" alt="location"></td><td><h4><b>San Francisco, CA</font></b></h4>
-         
-       </td>
+           </td>
      </tr>
-     <tr>
-        <td>
-         
-        </td>
+   <tr>
+    <td>
+       </td>
         <td id="con2">
           <a href="https://www.linkedin.com/in/sonika-vasanth-764491a6/"
           target="_blank">
-     
-          <img src="images/linkedin.png" height="36"  alt="View Sonika V's profile on LinkedIn">
-       
-    </a>
-     <a href="mailto:sonikavasanth1992@gmail.com"><img src="images/mail.png" height="32" alt="Email Id"></a>
+     <img src="images/linkedin.png" height="36"  alt="View Sonika V's profile on LinkedIn">
+   </a>
+ <a href="mailto:sonikavasanth1992@gmail.com"><img src="images/mail.png" height="32" alt="Email Id"></a>
      </td>
     </tr> 
+    </table>
   </div>
 </div>
 
 
 </div>
 </body>
+</html>
 
 </html>
