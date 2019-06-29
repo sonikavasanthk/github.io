@@ -1,6 +1,5 @@
-
 <html>
-<head>
+<!--<head>
   <title>Sonika Portfolio</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -41,25 +40,82 @@
 </nav> 
 
 <div id="background">
- <div id="Home" class="container-fluid">
+ <div id="Home" class="container-fluid"> -->
+ <body>
    <section id="s1">
-     <div style="background-color:lightgreen">
-      <h2align="left">
+     <div style="background-color:lightblue">
+      <h2align="right">
       <font color="black">
-        <h2><b>QA TESTER </h2>
-        <h1><b>SONIKA</b></h1>
-        <h1><b>VASANTH</b></h1></font>
+        <h3><b>QA TESTER </h3>
+        <h1><b>SONIKA VASANTH</b></h1>
+        <!--<h1><b>VASANTH</b></h1></font>-->
        </div>
     </section>
-   </div>
- </div>
 </body>
 
-<body>
- <div style="background-color:lightgreen">
-    <h4>This is a heading in a hello element</h4>
-    <p>This is some text in a div element.</p>
- </div>
-</body>
-</html>   
+<div id="About" class="container-fluid">
+<section id="sec2">
+  <!--<img src="images/about.png" height="80">-->
+
+    <font color="black"><h2>A Bit About Me </h2>
+    &nbsp<br>
+    <p>Hi there, I’m Sonika. I have 3+ years of experience in Manual and Automated Testing for Software Quality Assurance (SQA). I have experience and familiarity with Object-Oriented Programming in Java. I started my carrier as a QA Analyst at Schenck Process India and obtained Master's Degree in Computer Science from University of New Haven in Connecticut. I love to develop plans and test them for various applications which are engaging, interactive and user friendly. I would describe myself as a self motivated person with strong zeal to learn new things and would prefer to think out of the box.</p></font>
+  </section>
+</div>
+
+<div id="Experience" class="container-fluid">
+
+  <font color="black"><h1 id="ex5">Work Experience</h1></font>
+  &nbsp
+  &nbsp<br>
+  
+
+  <table class="bgcw">
+
+    <tr>
+      <!--<td class="bgcw"><img id="ex1" src="images/mul.png"></td>-->
+      <td class="bgcw" id="ex6"><p><h4><b>Mar, 2018 - Present </b></h4> <br/> Worked as a Junior Software Developer. Designed and Developed a web based application to manage and displays the live production data which calculates the number of commodities packed in an hour for each time slot. I’ve followed Agile Methodology for software development and QA testing.</p></td>
+    </tr>
+    <tr>
+      <!--<td class="bgcw"><img id="ex1" src="images/unc.png"></td>-->
+      <td class="bgcw" id="ex6"><p><h4><b>Sep, 2017 - Dec, 2017</b></h4><br>Worked as Software Quality Assurance Intern at Denso International America Inc. Created and developed information management system allowing upper management to view and analyze Quality related to data.</p></td>
+    </tr>
+    <tr>
+       <!--<td class="bgcw"><img id="ex2" src="images/pro.png"></td>-->
+       <td class="bgcw"id="ex6"><p><h4><b>Jan, 2014 - July, 2015</b></h4> <br>Worked at Schenck Process India as QA Analyst and developed an online application which is used to search, enter customer details, and to check the billing details. This was order fulfilment system for selling coal feeders and other that billing application which was a client server application built using .net and Oracle database.</p></td>
+    </tr>
+
+  </table>
+</div>
+
+<div id="Education" class="container-fluid">
+  <font color="black"><h1><center>Education</center></h1></font>
+  &nbsp<br>
+ 
+  
+ 
+  <table class="bgcw">
+    <tr>
+      <!--<td class="bgcw"><img src="images/cci.png"></td>-->
+      <td class="bgcw"id="ed2"><p><h4><b>Aug, 2015 - December, 2017</b></h4>My interest to fathom the depths of Web Technologies made me to pursue a graduate degree in Computer Science. My course work included project management, Databases and web Development. <br> </p></td>
+  
+  
+    </tr>
+    <tr>
+      <!--<td class="bgcw" id="ed1"><img src="images/jntu.jpg"></td>-->
+      <td class="bgcw" id="ed2"><p><h4><b>August, 2010 - June, 2014</b></h4>The 4 years of course work for bachelor’s degree gave me the opportunity to learn and explore the fundamentals of computer science. My undergraduate degree had a rigorous curriculum, which included Computer Programming and Data Structures, Database Management Systems, Object Oriented Programming, Web Technologies etc. <br> </p></td>
+    </tr>
+   
+  </table>
+</div>
+
+
+</html>
+
+
+
+
+
+
+
 
