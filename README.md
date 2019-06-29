@@ -3,7 +3,7 @@ link the live site https://sonikavasanthk.github.io/
 
 
 <html>
-//<head>
+<!--<head>
   <title>Sonika Portfolio</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -12,10 +12,8 @@ link the live site https://sonikavasanthk.github.io/
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   <script type="text/javascript" src="js/skillsset.js"></script>
   <link rel="stylesheet" type="text/css" href="css/kruthika.css">//
-  
- 
+  </head>-->
 
-</head>//
 <body data-spy="scroll" data-target=".navbar" data-offset="50">
 
 <nav class="navbar navbar-inverse navbar-fixed-top">
@@ -49,7 +47,7 @@ link the live site https://sonikavasanthk.github.io/
 <div id="Home" class="container-fluid">
  
     <section id="s1">
-      <h3 align="right"><font color="black">JUNIOR JAVA DEVELOPER & TESTER</h3>
+      <h3 align="right"><font color="black">QA TESTER</h3>
       <h1><b>SONIKA</b></h1>
       <h1><b>VASANTH</b></h1></font>
     </section>
