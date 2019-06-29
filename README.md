@@ -1,5 +1,5 @@
 <html>
-<!--<head>
+<head>
   <title>Sonika Portfolio</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -7,7 +7,7 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   <script type="text/javascript" src="js/skillsset.js"></script>
-  <link rel="stylesheet" type="text/css" href="css/sonika.css">//
+  <link rel="stylesheet" type="text/css" href="css/sonika.css">
   </head>
 
 <body data-spy="scroll" data-target=".navbar" data-offset="50">
@@ -40,7 +40,7 @@
 </nav> 
 
 <div id="background">
- <div id="Home" class="container-fluid"> -->
+ <div id="Home" class="container-fluid">
  <body>
    <section id="s1">
      <div style="background-color:lightblue">
@@ -56,8 +56,7 @@
 <div id="About" class="container-fluid">
 <section id="sec2">
   <!--<img src="images/about.png" height="80">-->
-
-    <font color="black"><h2>A Bit About Me </h2>
+<font color="black"><h2>A Bit About Me </h2>
     &nbsp<br>
     <p>Hi there, I’m Sonika. I have 3+ years of experience in Manual and Automated Testing for Software Quality Assurance (SQA). I have experience and familiarity with Object-Oriented Programming in Java. I started my carrier as a QA Analyst at Schenck Process India and obtained Master's Degree in Computer Science from University of New Haven in Connecticut. I love to develop plans and test them for various applications which are engaging, interactive and user friendly. I would describe myself as a self motivated person with strong zeal to learn new things and would prefer to think out of the box.</p></font>
   </section>
