@@ -41,11 +41,14 @@
 </nav> 
 
 <div id="background">
-<div id="Home" class="container-fluid">
- 
-    <section id="s1">
+ <div id="Home" class="container-fluid">
+   <section id="s1">
       <h3align="left"><font color="black">QA TESTER </h3>
       <h1><b>SONIKA</b></h1>
       <h1><b>VASANTH</b></h1></font>
     </section>
+   </div>
+ </div>
+    
+   
 
