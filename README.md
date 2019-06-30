@@ -63,21 +63,23 @@
   <font color="black"><h1 id="ex5">Work Experience</h1></font>
   &nbsp
   &nbsp<br>
- 
-  <table class="bgcw">
+  <!--<table class="bgcw">-->
    <tr>
       <!--<td class="bgcw"><img id="ex1" src="images/mul.png"></td>-->
-      <td class="bgcw" id="ex6"><p><h4><b>Mar, 2018 - Present </b></h4> <br/> Worked as a Junior Software Developer. Designed and Developed a web based application to manage and displays the live production data which calculates the number of commodities packed in an hour for each time slot. I’ve followed Agile Methodology for software development and QA testing.</p></td>
+      <!--<td class="bgcw" id="ex6">-->
+       <p><h4><b>Mar, 2018 - Present </b></h4> <br/> Worked as a Junior Software Developer. Designed and Developed a web based application to manage and displays the live production data which calculates the number of commodities packed in an hour for each time slot. I’ve followed Agile Methodology for software development and QA testing.</p></td>
     </tr>
     <tr>
       <!--<td class="bgcw"><img id="ex1" src="images/unc.png"></td>-->
-      <td class="bgcw" id="ex6"><p><h4><b>Sep, 2017 - Dec, 2017</b></h4><br>Worked as Software Quality Assurance Intern at Denso International America Inc. Created and developed information management system allowing upper management to view and analyze Quality related to data.</p></td>
+      <!--<td class="bgcw" id="ex6">-->
+       <p><h4><b>Sep, 2017 - Dec, 2017</b></h4><br>Worked as Software Quality Assurance Intern at Denso International America Inc. Created and developed information management system allowing upper management to view and analyze Quality related to data.</p></td>
     </tr>
     <tr>
        <!--<td class="bgcw"><img id="ex2" src="images/pro.png"></td>-->
-       <td class="bgcw"id="ex6"><p><h4><b>Jan, 2014 - July, 2015</b></h4> <br>Worked at Schenck Process India as QA Analyst and developed an online application which is used to search, enter customer details, and to check the billing details. This was order fulfilment system for selling coal feeders and other that billing application which was a client server application built using .net and Oracle database.</p></td>
+       <!--<td class="bgcw"id="ex6">-->
+       <p><h4><b>Jan, 2014 - July, 2015</b></h4> <br>Worked at Schenck Process India as QA Analyst and developed an online application which is used to search, enter customer details, and to check the billing details. This was order fulfilment system for selling coal feeders and other that billing application which was a client server application built using .net and Oracle database.</p></td>
     </tr>
-  </table>
+  <!--</table>-->
 </div>
 
 <div id="Education" class="container-fluid">
