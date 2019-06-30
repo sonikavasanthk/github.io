@@ -76,7 +76,7 @@
        <!--<td class="bgcw"><img id="ex2" src="images/pro.png"></td>-->
        <!--<td class="bgcw"id="ex6">-->
        <p><h4><b>Jan, 2014 - July, 2015</b></h4> <br>Worked at Schenck Process India as QA Analyst and developed an online application which is used to search, enter customer details, and to check the billing details. This was order fulfilment system for selling coal feeders and other that billing application which was a client server application built using .net and Oracle database.</p></td>
-    </tr>
+    </tr> 
   <!--</table>-->
 </div>
 
