@@ -1,5 +1,4 @@
 <html>
-<!--
 <head>
   <title>Sonika Portfolio</title>
   <meta charset="utf-8">
@@ -9,8 +8,7 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   <script type="text/javascript" src="js/skillsset.js"></script>
   <link rel="stylesheet" type="text/css" href="css/sonika.css">
-  </head> -->
-<!--
+  </head>
 <body data-spy="scroll" data-target=".navbar" data-offset="50">
 <nav class="navbar navbar-inverse navbar-fixed-top">
   <div class="container-fluid">
@@ -40,15 +38,15 @@
 </nav> 
 <div id="background">
  <div id="Home" class="container-fluid">
-   <section id="s1">-->
+   <section id="s1">
      <!--<div style="background-color:lightblue">-->
       <h3align="right">
       <font color="black">
         <h3><b>QA TESTER</h3>
         <h1><b>SONIKA VASANTH</b></h1>
         <!--<h1><b>VASANTH</b></h1></font>-->
-       <!--</div-->
-    </section>
+          </div>
+      </section>
         
 <div id="About" class="container-fluid">
 <section id="sec2">
